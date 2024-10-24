@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/innomatics-logo1.webp'; // Adjust the path according to where your logo is located
+import logo from './assets/logo.webp'; // Adjust the path according to where your logo is located
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './components/Home';
